@@ -1,4 +1,5 @@
 # Jeu de taquin
+
 - Le taquin est un jeu solitaire en forme de damier. La version
 initiale est composée de 15 petits carreaux numérotés de 1 à 15
 qui glissent dans un cadre prévu pour 16. Le problème consiste à
@@ -13,4 +14,4 @@ découper et mélanger. Voici par exemple d’un aperçu de ce que
 nous devrions obtenir après réalisation de ce mini projet
 
 
-![Uploading image.png…]()
+![taquin](https://user-images.githubusercontent.com/42185573/112733587-1c936500-8f41-11eb-8606-8f917306e08e.JPG)
