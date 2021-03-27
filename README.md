@@ -11,3 +11,6 @@ swing. Ainsi plutôt que de considérer 15 cases numérotées et
 une case blanche, nous allons utiliser une image que nous allons
 découper et mélanger. Voici par exemple d’un aperçu de ce que
 nous devrions obtenir après réalisation de ce mini projet
+
+
+![Uploading image.png…]()
